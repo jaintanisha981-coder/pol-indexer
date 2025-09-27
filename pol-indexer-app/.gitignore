@@ -1,0 +1,15 @@
+# Rust / Cargo
+/target
+**/*.rs.bk
+
+# Environment files
+.env
+.env.local
+
+# SQLite DB file
+pol_indexer.sqlite3
+
+# Editor configs
+.vscode
+.idea
+
